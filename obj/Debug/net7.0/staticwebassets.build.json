@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "s2O++8wvKt6UFZ5lXb/tkDxZ1fcv4UXWCZl0ZEllNEk=",
+  "Source": "MockTalksAPI",
+  "BasePath": "_content/MockTalksAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

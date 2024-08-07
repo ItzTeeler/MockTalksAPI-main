@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin/Release/net7.0/publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/c3dabae0-6f5e-4c1d-b297-5ba0783eeb52/resourceGroups/MockTalksCsGroup/providers/Microsoft.Web/sites/MockTalksAPIHosting"
+}

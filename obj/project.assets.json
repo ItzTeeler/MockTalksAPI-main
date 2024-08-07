@@ -3921,19 +3921,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/aplasticbin/.nuget/packages/": {}
+    "/Users/codestack/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/aplasticbin/Documents/Codestack/CombineLevelThree/Assignments/MockTalksAPI/MockTalksAPI.csproj",
+      "projectUniqueName": "/Users/codestack/Downloads/MockTalksAPI-main/MockTalksAPI.csproj",
       "projectName": "MockTalksAPI",
-      "projectPath": "/Users/aplasticbin/Documents/Codestack/CombineLevelThree/Assignments/MockTalksAPI/MockTalksAPI.csproj",
-      "packagesPath": "/Users/aplasticbin/.nuget/packages/",
-      "outputPath": "/Users/aplasticbin/Documents/Codestack/CombineLevelThree/Assignments/MockTalksAPI/obj/",
+      "projectPath": "/Users/codestack/Downloads/MockTalksAPI-main/MockTalksAPI.csproj",
+      "packagesPath": "/Users/codestack/.nuget/packages/",
+      "outputPath": "/Users/codestack/Downloads/MockTalksAPI-main/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/aplasticbin/.nuget/NuGet/NuGet.Config"
+        "/Users/codestack/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -3951,6 +3951,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -3997,6 +4002,20 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.20, 7.0.20]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.osx-x64",
+            "version": "[7.0.20, 7.0.20]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[7.0.20, 7.0.20]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -4005,7 +4024,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.302/RuntimeIdentifierGraph.json"
       }
     }
   }
